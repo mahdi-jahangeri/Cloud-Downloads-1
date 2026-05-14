@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2889",
+  "folder": "YouTube__watch_20260514101910_54c511",
+  "base_name": "1vrOZ0_69w8_1vrOZ0_69w8_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mahdi-jahangeri/Cloud-Downloads-1/releases/tag/co-releases-v1-2889",
+  "files": [
+    {
+      "name": "1vrOZ0_69w8_1vrOZ0_69w8_720p.mp4",
+      "url": "https://github.com/mahdi-jahangeri/Cloud-Downloads-1/releases/download/co-releases-v1-2889/1vrOZ0_69w8_1vrOZ0_69w8_720p.mp4",
+      "api_url": "https://api.github.com/repos/mahdi-jahangeri/Cloud-Downloads-1/releases/assets/420070558",
+      "id": 420070558,
+      "size": 12891815,
+      "download_count": 0
+    }
+  ]
+}
