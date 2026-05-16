@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2800",
+  "folder": "YouTube__watch_20260516133635_3feb84",
+  "base_name": "uYdio95XP_M_uYdio95XP_M_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mahdi-jahangeri/Cloud-Downloads-1/releases/tag/co-releases-v1-2800",
+  "files": [
+    {
+      "name": "uYdio95XP_M_uYdio95XP_M_480p.mp4",
+      "url": "https://github.com/mahdi-jahangeri/Cloud-Downloads-1/releases/download/co-releases-v1-2800/uYdio95XP_M_uYdio95XP_M_480p.mp4",
+      "api_url": "https://api.github.com/repos/mahdi-jahangeri/Cloud-Downloads-1/releases/assets/421838602",
+      "id": 421838602,
+      "size": 43018827,
+      "download_count": 0
+    }
+  ]
+}
